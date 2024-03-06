@@ -1,0 +1,12 @@
+.card .hambozo {
+   height: 250px;
+}
+.home {
+   background-image: url('../images/bg-home-food.jpg');
+   min-height: 100vh;
+   background-size: cover;
+}
+
+.navbar .nav-link {
+   cursor: pointer;
+}
